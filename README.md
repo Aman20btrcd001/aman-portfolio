@@ -6,7 +6,7 @@ This site highlights my skills in **Python, Selenium, Flask, AI Automation, and 
 ---
 
 ## 🚀 Live Portfolio
-🔗 **Visit Now:** [aman20btrcd001.github.io/aman-portfolio](https://aman20btrcd001.github.io/aman-portfolio)
+🔗 **Visit Now:** [kumaraman-000.github.io/aman-portfolio](https://kumaraman-000.github.io/aman-portfolio)
 
 ---
 
